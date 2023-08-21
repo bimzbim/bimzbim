@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Halo semua 👋
+
+Perkenalkan nama saya **Ida Bagus Ketut Purwa Adnyana Putra**.\
+
+Saya seorang **Web Developer** di [Gatenz Panel](https://www.gatenz-panel.com/).\
+
+Saat ini saya sedang menjalani Program Bangkit Academy Batch 2 2023 dengan bidang Mobile Development
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gusbimo/)ku ya.
+
