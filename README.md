@@ -5,8 +5,8 @@ An independent Software Engineer who loves to create and share projects about we
 I'm currently active in Gatenz Team as Web Developer at <a href="https://www.gatenz-panel.com">Gatenz SMM Panel</a> to develop Back-End Service.
 
 - 🌱 I’m currently learning about Mobile Development in Bangkit Academy Batch 2 2023
-- 📫 How to reach me: purwaadnyana@gatenzteam.com
-- ⚡ Fun fact: My height 186cm
+- 📫 How to reach me : purwaadnyana@gatenzteam.com
+- 💡 Fun fact : My height 186cm
 
 <!--### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
