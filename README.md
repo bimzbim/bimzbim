@@ -5,7 +5,7 @@ An independent Software Engineer who loves to create and share projects about we
 I'm currently active in Gatenz Team as Web Developer at <a href="https://www.gatenz-panel.com">Gatenz SMM Panel</a> to develop Back-End Service.
 
 - 📫 How to reach me : purwaadnyana@gatenzteam.com
-- 💡 Fun fact : My height 186cm
+- 💡 Fun fact : My height 189cm
 
 <!--### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
